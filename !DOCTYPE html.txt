@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chidinma Nzenwata | Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+        header { background: #222; color: #fff; padding: 20px; text-align: center; }
+        section { max-width: 900px; margin: 20px auto; padding: 20px; background: #fff; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); }
+        h1, h2 { text-align: center; }
+        .portfolio-item { margin-bottom: 20px; }
+        footer { text-align: center; padding: 10px; background: #222; color: #fff; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Chidinma Nzenwata</h1>
+        <p>Social Media | eCommerce | Copywriting | Editing</p>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>With a diverse background in social media management, eCommerce, copywriting, and editing, I bring a unique blend of creativity and strategy to every project. I have successfully built and managed online brands, crafted compelling content that engages audiences, and fine-tuned written materials to ensure clarity and impact. Whether optimizing digital presence, curating marketing campaigns, or refining brand messaging, my expertise helps businesses grow and connect with their audiences effectively.</p>
+    </section>
+    
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <div class="portfolio-item">
+            <h3>Social Media Campaigns</h3>
+            <p>I have worked with an educational firm, Chelis Group, writing captions and designing posts for their social media pages, including Facebook and Instagram accounts: <strong>neomontessorilife, chelisinternalschools, mmipreschoolabuja, mmilondonnigeria</strong>. Additionally, I have managed the Instagram account of a hospitality brand, <strong>Starexx Apartments</strong>. I have also created content calendars, captions, and copy for an eCommerce brand, <strong>Mansupply</strong>, across Instagram, Facebook, Twitter, and LinkedIn.</p>
+        </div>
+        <div class="portfolio-item">
+            <h3>eCommerce Experience</h3>
+            <p>I have hands-on experience managing and growing eCommerce brands by creating engaging product descriptions, optimizing website content, and curating digital marketing strategies. At <strong>Mansupply</strong>, I played a key role in developing and implementing content strategies across multiple social media platforms, ensuring brand consistency and audience engagement. I also created content calendars and wrote compelling copy to enhance sales and brand visibility.</p>
+        </div>
+        <div class="portfolio-item">
+            <h3>Copywriting & Editing</h3>
+            <p>I have written newsletters for <strong>Neo Montessori Life Magazine</strong> subscribers and internal newsletters for staff. Due to organizational policies, these works remain the intellectual property of the company and cannot be shared. Additionally, I have contributed to the <strong>Mansupply</strong> blog, but these articles are published under the owner’s name. 
+            
+            I also run a personal blog where I explore topics on life, poetry, movies, and books. You can visit my blog here: <a href="https://www.sassymonzy.wordpress.com" target="_blank">sassymonzy.wordpress.com</a>.
+            
+            In editing, I work with clients who are in the process of publishing their works, but due to confidentiality agreements, I am unable to share samples. My expertise includes refining manuscripts, articles, and professional documents to ensure clarity, structure, and coherence.</p>
+        </div>
+    </section>
+    
+    <section id="services">
+        <h2>Services</h2>
+        <p>I offer freelance and consulting roles in social media management, eCommerce strategy, copywriting, and editing. My goal is to help businesses enhance their digital presence, engage their audience, and refine their written content for maximum impact.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: chidinmanzenwata@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/chidinmanzenwata" target="_blank">LinkedIn Profile</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Chidinma Nzenwata. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
